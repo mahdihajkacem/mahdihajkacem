@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/mahdihajkacem/mahdihajkacem.github.io/main/github%202.png)
 
-**I am an IT student that currently studying in ISET Sfax Third year Bachelor in Computer Technologies DSI (Development of Computer Systems), I have worked during my undergraduate years with 5+ years of experience building websites, Graphic design, UI/UX, hardware maintenance and software components.**
+**Full-stack developer building web, mobile, backend, data, and AI-powered systems. Interested in software architecture, applied AI, developer tools, and experimenting with new technologies to solve complex problems.**
 
 
 
